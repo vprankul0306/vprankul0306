@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭I'm working on my skills
 
-🌿I'm currently learning more about React
+🌿I'm currently learning React
 
 🤔I'm looking for help with Exploring new technologies
 
